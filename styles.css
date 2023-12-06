@@ -17,6 +17,7 @@ body, h1, h2, ul, li, button, input {
     align-items: center;
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color:black;
     background-image: url('/timer.jpg'); /* Change the path to your image */
     background-size: cover;
     background-repeat: no-repeat;
